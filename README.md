@@ -18,12 +18,6 @@ The app calculates Fibonacci sequence values based on user input.
 - Dart
 - Android / iOS
 
-## 📚 What I Learned
-- Flutter widget-based UI development
-- State management basics
-- Cross-platform mobile app workflows
-- Building and exporting APKs
-
 ## ▶️ How to Run
 1. Clone the repository
 2. Ensure Flutter SDK is installed
