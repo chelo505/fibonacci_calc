@@ -7,18 +7,18 @@ Ever wondered what 100,000th fibbonaci number is? Find out with this fibonacci n
 A **cross-platform mobile application** built using **Flutter**, capable of running on both **Android and iOS**.  
 The app calculates Fibonacci sequence values based on user input.
 
-## 🚀 Features
+## Features
 - Fibonacci number calculation
 - Clean and responsive UI
 - Cross-platform support (Android & iOS)
 - Built as a mobile APK / app
 
-## 🛠 Tech Stack
+## Tech Stack
 - Flutter
 - Dart
 - Android / iOS
 
-## ▶️ How to Run
+## How to Run
 1. Clone the repository
 2. Ensure Flutter SDK is installed
 3. Run `flutter pub get`
